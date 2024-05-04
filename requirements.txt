@@ -1,0 +1,7 @@
+jsonref
+jsonschema
+jsonschema-specifications
+marshmallow
+PyYaml
+referencing
+rstr
